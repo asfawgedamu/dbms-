@@ -1,2 +1,2 @@
-# dbms-
-This repo contains useful documents on major dbms: Oracle, MySQL and MSSQL
+# dbms-resources-for-admins
+This repo contains useful documents on major DBMs: Oracle, MySQL, and MSSQL
